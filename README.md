@@ -22,6 +22,7 @@ Project 1 →Deploy wordpress website on AWS using elastic beanstalk
 
   Please follow the below steps 
 
+
   1. step 1 →Search Elastic beanstalk on aws console and then click on create application
   2. step 2 →choose web server environment and then give name to your application
   3. step 3 →choose php from managed platform and then click next
@@ -35,6 +36,7 @@ Project 1 →Deploy wordpress website on AWS using elastic beanstalk
            RDS_PORT : where to find →On the Connectivity & security tab on the Amazon RDS console: Port.
            RDS_DB_NAME : where to find →On the Configuration tab on the Amazon RDS console: DB Name.
            RDS_USERNAME : where to find →On the Configuration tab on the Amazon RDS console: Master username.
+
 ![image](https://github.com/jayshankar80/deploy-wordpress-using-elastic-bean-stalk-/assets/78995149/194d09ef-f36b-4823-a65f-b58a3db1e559)
 
 
