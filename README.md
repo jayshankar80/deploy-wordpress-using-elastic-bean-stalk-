@@ -28,6 +28,8 @@ Launch elastic beanstalk environment →
            RDS_PORT : where to find →On the Connectivity & security tab on the Amazon RDS console: Port.
            RDS_DB_NAME : where to find →On the Configuration tab on the Amazon RDS console: DB Name.
            RDS_USERNAME : where to find →On the Configuration tab on the Amazon RDS console: Master username.
+![image](https://github.com/jayshankar80/deploy-wordpress-using-elastic-bean-stalk-/assets/78995149/194d09ef-f36b-4823-a65f-b58a3db1e559)
+
 
   10. Step 10 → review your configuration and click on sumbit
 
