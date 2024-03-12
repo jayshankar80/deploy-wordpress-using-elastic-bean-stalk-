@@ -12,6 +12,9 @@ Launch RDS database →
     3. step 3 →set your master name and password you could also autogenerate the password
     4. step 4 → give the name to your database in the additional configuration and remain everything as it is and click on create database it takes up to 3 to 4 minutes to configure everything
 
+![image](https://github.com/jayshankar80/deploy-wordpress-using-elastic-bean-stalk-/assets/78995149/8a5fd05a-9dd4-4a0a-bc29-bc5140369454)
+
+
 
 Launch elastic beanstalk environment →
   Please follow the below steps 
