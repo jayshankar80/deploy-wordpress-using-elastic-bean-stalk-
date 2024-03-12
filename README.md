@@ -27,7 +27,7 @@ Project 1 →Deploy wordpress website on AWS using elastic beanstalk
   2. step 2 →choose web server environment and then give name to your application
   3. step 3 →choose php from managed platform and then click next
   4. step 4 → In service role click create and use new service role and select aws-elasticbeanstalk-service-role from it
-  5. step 5 →choose your ec2 keypair and your ec2 instance profile to ec2accessdemoapp
+  5. step 5 →choose your ec2 keypair and your ec2 instance profile to ec2accessdemoapp (tyou can follow this page to create instance profile https://www.iguazio.com/docs/latest-release/cluster-mgmt/deployment/cloud/aws/howto/iam-role-n-instance-profile-create/)
   6. step 6 → In VPC choose default vpc and then select your instance subnet and database subnets
   7. select the default security group from the options and click next
   8. step 8 → in health reporting choose basic and untick the manged updates options
