@@ -38,7 +38,7 @@ Launch elastic beanstalk environment →
 
 **Download Wordpress →**
   1. step 1 → go to your local system  terminal and create dir mkdir git run
-  2. Step2 -> git clone
+  2. Step2 -> git clone https://github.com/jayshankar80/deploy-wordpress-using-elastic-bean-stalk-/tree/main/wordpress
   3. Step 3 -> zip ../your_folder_name.zip -r * .[^.]*
 
 **Upload and deploy →**
