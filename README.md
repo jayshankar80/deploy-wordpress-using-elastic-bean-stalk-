@@ -1,1 +1,1 @@
-# deploy-wordpress-using-elastic-bean-stalk-
+# deploy-wordpress-using-elastic-bean-stalk
