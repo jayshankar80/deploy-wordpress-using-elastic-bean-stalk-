@@ -5,8 +5,10 @@ Project 1 →Deploy wordpress website on AWS using elastic beanstalk
 **Prerequisites →**
 
 ---------
-Launch RDS database →
+**Launch RDS database →**
+
  Please follow the below steps  
+
     1. step 1 →Search RDS on aws console and then click on create database
     2. step 2 → choose standard create and then mysql engine
     3. step 3 →set your master name and password you could also autogenerate the password
@@ -16,8 +18,10 @@ Launch RDS database →
 
 
 
-Launch elastic beanstalk environment →
+**Launch elastic beanstalk environment →**
+
   Please follow the below steps 
+
   1. step 1 →Search Elastic beanstalk on aws console and then click on create application
   2. step 2 →choose web server environment and then give name to your application
   3. step 3 →choose php from managed platform and then click next
